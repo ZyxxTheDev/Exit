@@ -29,4 +29,7 @@
 ## Here Is Swearts/Envy Giving code for code and nothing about Credits 
 ![image](https://github.com/user-attachments/assets/d3576240-6a0e-4f26-b051-0c30b5ce2702)
 
-### If you have any information on Swearts that could be added here, reach out to me on discord: goldenn.dev.
+## Here is Swearts Using a launcher off github calling it his launcher saying he made it
+![image]([https://cdn.discordapp.com/attachments/1356038171137146991/1370858880040571043/image.png?ex=68210752&is=681fb5d2&hm=41431990e6c085b9ead46038de059e59cee618176dbc81201da39791c78f864e&))
+
+### If you have any information on Swearts that could be added here, reach out to me on discord: zyxx.on.top.
